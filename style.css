@@ -1,0 +1,24 @@
+/* .heading-class {
+color: lightcoral;
+ 
+} */
+ /* div{
+    width: 100px;
+    height: 100px;
+     background-color: teal;
+    border: 1px solid black;
+    text-align: center;
+   
+    margin: 5px;
+ } */
+
+ .dark {
+background-color:black ;
+color: white;
+ }
+
+ .light {
+   background-color:white ;
+color: black;
+ }
+
